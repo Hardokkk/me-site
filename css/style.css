@@ -707,7 +707,7 @@ ul,ol {
 .rectangle {
 counter-reset: li; 
 list-style: none; 
-font: 18px "URW Chancery L", "cursive";
+font: 14px "URW Chancery L", "cursive";
 padding: 0;
 text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
@@ -753,4 +753,4 @@ border-left-color: #9097A2;
 .social-iconsfooter {
 	font-size:18px;
 	color:#fff; }
-/*ЗНАЧОК VIBER ================================================== */
+/*Отступ текста 3- колонки в index начало  ================================================== */
