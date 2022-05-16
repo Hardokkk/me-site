@@ -183,9 +183,38 @@ h1.latestitems {
 .paddingbottom20 {
 	padding-bottom:20px !Important;
 }
-.homebrowseitems {
+.homebrowseitems1 {
 	text-decoration:none;
 	background-color:#333333;
+	font-weight:700;
+	font-size:20px;
+	border:0;
+	padding:13px 39px;
+	letter-spacing:1px;
+	margin-top:-20px;
+	display:inline-block;
+	color:#fff;
+	margin-bottom:0px;
+}
+.homebrowseitemsicon1 {
+	color:#fff;
+	display:inline-block;
+	padding:13px 20px;
+	margin-top:-13px;
+	margin-bottom:-13px;
+	margin-right:-39px;
+	margin-left:15px;
+	background:rgba(0,0,0,0.2);
+}
+a.homebrowseitems1:hover {
+	color:#fff;
+	opacity: 0.8;
+}
+
+/*==============================================* СТИЛЬ КНОПКИ ДОКУМЕНТА КОТОРЫЙ СКАЧИВАЕТСЯ  *===============================================*/
+.homebrowseitems {
+	text-decoration:none;
+	background-color:#00bba7;
 	font-weight:700;
 	font-size:20px;
 	border:0;
@@ -674,7 +703,7 @@ ul,ol {
 }
 @media (min-width:768px) {
 	.navbar-lg .navbar-nav>li>a {
-		padding-top:26px;
+		padding-top:50px;
 		padding-bottom:26px;
 		 font-size:18px;
 	}
