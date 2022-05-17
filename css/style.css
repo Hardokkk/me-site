@@ -703,7 +703,7 @@ ul,ol {
 }
 @media (min-width:768px) {
 	.navbar-lg .navbar-nav>li>a {
-		padding-top:50px;
+		padding-top:60px;
 		padding-bottom:26px;
 		 font-size:18px;
 	}
